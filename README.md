@@ -14,7 +14,7 @@ LatticeDrawing(UnitCell,PrimVector)
 ```
 
 ```python
-%Drawing a 2D square lattice in python
+#Drawing a 2D square lattice in python
 import numpy as np
 import LatticeDrawing
 UnitCell=np.array([0])
